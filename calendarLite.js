@@ -420,3 +420,4 @@ function getStarSigns(sm,sd){
 };
 export {solarToLunar,lunarToSolar,getSolarTermsDay,switchFestivalDate,getFestival,getSeason,getStarSigns}
 
+
